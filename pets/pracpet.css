@@ -1,0 +1,36 @@
+.card {
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 5px;
+}
+
+img {
+
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+span {
+    color: rgb(158, 101, 26);
+}
+
+#pets {
+    display: flex;
+    justify-content:space-evenly;
+    margin: auto;
+}
+
+h3 {
+    color: rgba(6, 153, 153, 0.847);
+}
+
+h1 {
+   color: rgb(9, 10, 13);
+}
+
+h2 {
+    color: hotpink;
+}
